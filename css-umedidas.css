@@ -1,0 +1,8 @@
+html { font-size: 20; }
+html h1 { font-size: 2rem; } /* 2 x 20 = 40px */
+h1 > .principal { font-size: 1.4em; } /* 1.4 x 40 = 56px */
+html .secundario { font-size: 1.4rem; } /* 1.4 x 20 = 28px */ 
+
+strong { background: rgb(176, 43, 33); } /* Dark */
+em { background: rgb(219, 78, 68); } /* Base */
+q { background: rgb(231, 138, 131); } /* Light */
