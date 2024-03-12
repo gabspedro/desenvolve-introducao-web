@@ -2,6 +2,7 @@ html { background: #D6E4E3; }
 body { width: 51%; height: 20%; position: absolute; left: 200px; top: 120px; }
 div.wrapper { height: 0px; }
 div.zen-resources { width: 240px;}
+p.header { border-bottom: solid 2px #879395; }
 
 
 /* Main Fonts */
