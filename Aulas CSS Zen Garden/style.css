@@ -1,0 +1,111 @@
+html { background: #D6E4E3; }
+body { width: 51%; height: 20%; position: absolute; left: 200px; top: 120px; }
+div.wrapper { height: 0px; }
+div.zen-resources { width: 240px;}
+
+
+/* Main Fonts */
+
+p { font-family: 'K2D', sans-serif; }
+h1 { font-family: 'Kufam', sans-serif; font-weight: 700; }
+h2 { font-family: 'Kufam', sans-serif; font-weight: 600; }
+h3 { font-family: 'Kufam', sans-serif; font-weight: 600; }
+ul { font-family: 'Kufam', sans-serif; font-weight: 400; }
+
+/* Other Fonts */
+
+.k-regular { font-family: 'Kufam', sans-serif; font-weight: 400; }
+
+/* Main Titles Colors */
+
+h1 { color: #29585F }
+h2 { color: #29585F }
+h3 { color: #29585F }
+
+/* Main Texts Colors */
+
+p { color: #879395 }
+p.header { color: #879395 }
+strong { color: #4A595B }
+a { color: #5BA5B1 }
+a:hover { color: #437B85 }
+ul { color: #D6E4E3 }
+li { color: #7DB4BC }
+
+/* Other Texts Colors */
+
+.header { color:#29585F }
+#k-regular { color: #315b6281 }
+a.k-regular { color: #29585F } 
+a:hover.k-regular { color: #102325 }
+a.k-regular1 { color: #29585F } 
+a:hover.k-regular1 { color: #102325 }
+a.design-name1 { color: #437179 }
+a.design-name1:hover { color: #233c41 }
+a.designer-name2 { color: #2e4f52 }
+a.designer-name2:hover { color: #050808 }
+a.other-topics { color: #437179 }
+a:hover.other-topics { color: #233c41 }
+
+/* Text Specs */
+
+h1 { font-size: 50px; text-align: center; }
+h2 { font-size: 25px; }
+h3 { font-size: 21px; }
+p.header { font-size: 14px; }
+p.k-regular { text-align: center; }
+p.k-regular1 { text-align: center; }
+#k-regular { text-align: center; font-size: 16px; letter-spacing: 14px; }
+p { text-align: justify; font-size: 18px; }
+a.design-name1 { font-size: 18px; text-decoration: none; }
+a.designer-name2 { font-size: 15px; text-decoration: none; }
+a.k-regular { text-decoration: none; }
+ul { font-size: 12px; list-style-type: none; }
+ul.bar { font-size: 15px; }
+abbr { font-variant: small-caps; }
+.copyright { font-size: 14px; }
+.inspiration { font-size: 15px; }
+.other-topics { font-size: 18px; text-decoration: none; }
+
+/* Positions */
+
+div.main { position: absolute; top: 680px}
+h1 { position: absolute; top: 80px; left: 55px; }
+h3 { position: relative; left: 6px; }
+.page-wrapper { margin: 32%; position: relative; bottom: 368px; min-width: 550px; }
+div.preamble { position: absolute; top: 310px; left: 1%; width: 550px; margin: 0% }
+.design-selection { position: absolute; bottom: 2050px; right: 585px; width: 300px;}
+p.header { text-align: center; position: absolute; top: 160px; left: 48px; width: 300px; }
+#k-regular { position: absolute; top: 85px; left: 220px; }
+ul { position: relative; right: 30px; }
+.supporting footer { padding-top: 120px; display: flex; justify-content: space-between; }
+div.design-archives { position: relative; bottom: 2080px; right: 47%;}
+.next { position: relative; top: 30px; left: 6%; }   
+li.designs { position: relative; left: 9px; padding-bottom: 1px; }
+.design-name1 { position: relative; top: 4px; right: 9px; }
+.designer-name2 { position: relative; left: 6px; }
+.contentinfo { padding-top: 14px; }
+.copyright { position: relative; left: 235px; }
+.inspiration { position: relative; left: 126px; }
+ul.bar { padding-top: 22px; position: absolute; left: 80px; display: flex; justify-content: space-evenly; }
+.zen-resources { position: absolute; bottom: 2233px; left: 730px; }
+.view-css { padding-bottom: 8px;}
+.css-resources { padding-bottom: 8px;}
+.zen-faq { padding-bottom: 8px;}
+.zen-submit { padding-bottom: 8px;}
+.zen-translations { padding-bottom: 8px;}
+
+/* Size */
+
+#zen-intro { width: 650px; }
+p.header { width: 450px; padding-bottom: 20px; }
+.k-regular { padding-right: 50px; }
+#home { padding-left: 150px; }
+#main { padding-bottom: 20px; }
+.page-wrapper { width: 37%; }
+
+/* Animation */
+
+img:hover { width: 48px; height: 48px; }
+li a img:hover { width: 28px; height: 28px; }
+li.k-regular:hover { font-size: 16px; }
